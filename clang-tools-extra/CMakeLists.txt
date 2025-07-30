@@ -26,6 +26,7 @@ add_subdirectory(clang-include-fixer)
 add_subdirectory(clang-move)
 add_subdirectory(clang-query)
 add_subdirectory(include-cleaner)
+add_subdirectory(mirror)
 add_subdirectory(pp-trace)
 add_subdirectory(tool-template)
 
